@@ -1,0 +1,1 @@
+This is an app developed with heavy AI use to help Madison County Alabama voters figure out what will be on their midterm 2026 ballot and get information about the candidates and the position they are running for.
