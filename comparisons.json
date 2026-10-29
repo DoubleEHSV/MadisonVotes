@@ -1,0 +1,2598 @@
+{
+  "updatedOn": "2026-10-29",
+  "methodology": "AI-written snapshot \u00b7 October 29, 2026. Campaign positions are attributed. Voting records and endorsements are selected examples. Information gaps are marked; missing information does not imply opposition.",
+  "sources": {
+    "candidate-0": {
+      "title": "Doug Jones \u00b7 candidate website",
+      "url": "https://www.dougjones.com/",
+      "kind": "Campaign"
+    },
+    "candidate-1": {
+      "title": "Tommy Tuberville \u00b7 candidate website",
+      "url": "https://www.coachforgovernor.com/",
+      "kind": "Campaign"
+    },
+    "candidate-2": {
+      "title": "Phillip Ensler \u00b7 candidate website",
+      "url": "https://phillipensler.com/",
+      "kind": "Campaign"
+    },
+    "candidate-3": {
+      "title": "John Wahl \u00b7 candidate website",
+      "url": "https://votejohnwahl.com/",
+      "kind": "Campaign"
+    },
+    "candidate-4": {
+      "title": "Everett Wess \u00b7 candidate website",
+      "url": "https://wessforsenate.com/",
+      "kind": "Campaign"
+    },
+    "candidate-5": {
+      "title": "Barry Moore \u00b7 candidate website",
+      "url": "https://barrymooreforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-6": {
+      "title": "Andrew Sneed \u00b7 candidate website",
+      "url": "https://www.sneedforcongress.com/",
+      "kind": "Campaign"
+    },
+    "candidate-7": {
+      "title": "Dale W. Strong \u00b7 candidate website",
+      "url": "https://www.dalestrongforcongress.com/",
+      "kind": "Campaign"
+    },
+    "candidate-8": {
+      "title": "Jeff Mclaughlin \u00b7 candidate website",
+      "url": "https://www.mclaughlinforag.com/",
+      "kind": "Campaign"
+    },
+    "candidate-9": {
+      "title": "Katherine Robertson \u00b7 candidate website",
+      "url": "https://www.katherineforag.com/",
+      "kind": "Campaign"
+    },
+    "candidate-10": {
+      "title": "Katie Kramer \u00b7 candidate website",
+      "url": "https://kramerforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-11": {
+      "title": "Steve Livingston \u00b7 candidate website",
+      "url": "https://alsenaterepublicans.org/representatives/008-steve-livingston/",
+      "kind": "Campaign"
+    },
+    "candidate-12": {
+      "title": "Forrest Satterfield \u00b7 candidate website",
+      "url": "https://www.forrestforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-14": {
+      "title": "Brad Mendheim \u00b7 candidate website",
+      "url": "https://www.mendheimforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-15": {
+      "title": "Ashleigh Meyer Dunham \u00b7 candidate website",
+      "url": "https://www.ashleighdunhamforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-19": {
+      "title": "Mary Windom \u00b7 candidate website",
+      "url": "http://www.judgemarywindom.com/about.html",
+      "kind": "Campaign"
+    },
+    "candidate-21": {
+      "title": "Wayne Rogers \u00b7 candidate website",
+      "url": "https://waynerogersforalsecretaryofstate.com/",
+      "kind": "Campaign"
+    },
+    "candidate-22": {
+      "title": "Caroleene Dobson \u00b7 candidate website",
+      "url": "https://www.dobsonforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-23": {
+      "title": "Rosilyn Houston \u00b7 candidate website",
+      "url": "https://rozforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-24": {
+      "title": "Young Boozer \u00b7 candidate website",
+      "url": "https://boozerfortreasurer.com/",
+      "kind": "Campaign"
+    },
+    "candidate-25": {
+      "title": "Violet Edwards \u00b7 candidate website",
+      "url": "https://voteviolet.com/",
+      "kind": "Campaign"
+    },
+    "candidate-26": {
+      "title": "Andrew Sorrell \u00b7 candidate website",
+      "url": "https://www.andrewsorrell.com/",
+      "kind": "Campaign"
+    },
+    "candidate-27": {
+      "title": "Ron Sparks \u00b7 candidate website",
+      "url": "https://sparks2026.com/",
+      "kind": "Campaign"
+    },
+    "candidate-28": {
+      "title": "Corey Hill \u00b7 candidate website",
+      "url": "https://coreyhillforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-29": {
+      "title": "James O. Gordon \u00b7 candidate website",
+      "url": "https://jamesogordon.com/",
+      "kind": "Campaign"
+    },
+    "candidate-30": {
+      "title": "Matt Gentry \u00b7 candidate website",
+      "url": "https://mattgentryforpsc.com/",
+      "kind": "Campaign"
+    },
+    "candidate-31": {
+      "title": "Sheila D. Mcneil \u00b7 candidate website",
+      "url": "https://mcneilforpsc2.com/",
+      "kind": "Campaign"
+    },
+    "candidate-32": {
+      "title": "Jim Zig Zeigler \u00b7 candidate website",
+      "url": "https://www.zig4alabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-33": {
+      "title": "Shatika Armstrong \u00b7 candidate website",
+      "url": "https://www.votesarmstrong.com/",
+      "kind": "Campaign"
+    },
+    "candidate-34": {
+      "title": "Emily Jones \u00b7 candidate website",
+      "url": "https://www.emilyjonesforstateboard.com/",
+      "kind": "Campaign"
+    },
+    "candidate-37": {
+      "title": "Kimberly Kelley Rucker \u00b7 candidate website",
+      "url": "https://www.krucker4judge.com/",
+      "kind": "Campaign"
+    },
+    "candidate-38": {
+      "title": "Tim Douthit \u00b7 candidate website",
+      "url": "https://www.votetimdouthit.com/",
+      "kind": "Campaign"
+    },
+    "candidate-39": {
+      "title": "Jason M. Jones \u00b7 candidate website",
+      "url": "https://www.jasonjonesforjudge.com/",
+      "kind": "Campaign"
+    },
+    "candidate-41": {
+      "title": "Raven Beach \u00b7 candidate website",
+      "url": "https://www.ravenbeachforjudge.com/",
+      "kind": "Campaign"
+    },
+    "candidate-42": {
+      "title": "Jeanne Dowdle Rizzardi \u00b7 candidate website",
+      "url": "https://jeannerizzardi.com/",
+      "kind": "Campaign"
+    },
+    "candidate-43": {
+      "title": "Brett Jones \u00b7 candidate website",
+      "url": "https://www.votebrettjones.com/",
+      "kind": "Campaign"
+    },
+    "candidate-44": {
+      "title": "Kevin H. Turner \u00b7 candidate website",
+      "url": "https://www.kevinturnerforsheriff.com/",
+      "kind": "Campaign"
+    },
+    "candidate-46": {
+      "title": "Jeff Taylor \u00b7 candidate website",
+      "url": "https://www.jefftaylorfortaxcollector.com/",
+      "kind": "Campaign"
+    },
+    "candidate-47": {
+      "title": "Valerie D. Miles \u00b7 candidate website",
+      "url": "https://www.votevaleriemiles.com/",
+      "kind": "Campaign"
+    },
+    "candidate-50": {
+      "title": "E. Quinn Headen \u00b7 candidate website",
+      "url": "https://drequinnheaden.com/",
+      "kind": "Campaign"
+    },
+    "candidate-51": {
+      "title": "Keith Trawick \u00b7 candidate website",
+      "url": "https://www.votetrawick.com/",
+      "kind": "Campaign"
+    },
+    "candidate-52": {
+      "title": "Austin Jones \u00b7 candidate website",
+      "url": "https://austinjones4thepeople.com/",
+      "kind": "Campaign"
+    },
+    "candidate-54": {
+      "title": "Rudolph Valentino Drake \u00b7 candidate website",
+      "url": "https://www.rudolphdrakeforsenate.com/",
+      "kind": "Campaign"
+    },
+    "candidate-55": {
+      "title": "John Roberts \u00b7 candidate website",
+      "url": "https://www.johnrobertsal.com/",
+      "kind": "Campaign"
+    },
+    "candidate-56": {
+      "title": "Hanu Karlapalem \u00b7 candidate website",
+      "url": "https://hanu4alabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-57": {
+      "title": "Parker Duncan Moore \u00b7 candidate website",
+      "url": "https://www.voteparkermoore.com/",
+      "kind": "Campaign"
+    },
+    "candidate-60": {
+      "title": "John Dickey \u00b7 candidate website",
+      "url": "https://dickey4alabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-61": {
+      "title": "Arthur Orr \u00b7 candidate website",
+      "url": "https://arthurorr.com/",
+      "kind": "Campaign"
+    },
+    "candidate-62": {
+      "title": "Marilyn Lands \u00b7 candidate website",
+      "url": "https://www.repmarilynlands.com/",
+      "kind": "Campaign"
+    },
+    "candidate-63": {
+      "title": "Aaron Thomas \u00b7 candidate website",
+      "url": "https://www.aaronthomasforhd10.com/",
+      "kind": "Campaign"
+    },
+    "candidate-64": {
+      "title": "Jared Sluss \u00b7 candidate website",
+      "url": "https://www.slussforsenate.org/",
+      "kind": "Campaign"
+    },
+    "candidate-65": {
+      "title": "Sam Givhan \u00b7 candidate website",
+      "url": "https://samgivhan.com/",
+      "kind": "Campaign"
+    },
+    "candidate-66": {
+      "title": "Laura Hall \u00b7 candidate website",
+      "url": "https://www.laurahallforalabama.com/",
+      "kind": "Campaign"
+    },
+    "candidate-67": {
+      "title": "Donald Barnes \u00b7 candidate website",
+      "url": "https://donaldbarnes4hd19.com/",
+      "kind": "Campaign"
+    },
+    "candidate-69": {
+      "title": "James Linderholm \u00b7 candidate website",
+      "url": "https://www.jameslinderholm.com/",
+      "kind": "Campaign"
+    },
+    "candidate-70": {
+      "title": "James Lomax \u00b7 candidate website",
+      "url": "https://www.lomaxforhouse.com/",
+      "kind": "Campaign"
+    },
+    "candidate-72": {
+      "title": "Allison T Montgomery \u00b7 candidate website",
+      "url": "https://yourallyinmontgomery.org/",
+      "kind": "Campaign"
+    },
+    "candidate-73": {
+      "title": "Phillip K. Rigsby \u00b7 candidate website",
+      "url": "https://www.rigsbyforhouse.com/",
+      "kind": "Campaign"
+    },
+    "parca": {
+      "title": "PARCA \u00b7 statewide amendment guide",
+      "url": "https://parcalabama.org/on-the-ballot-parcas-guide-to-alabamas-2026-statewide-amendments/",
+      "kind": "Independent analysis"
+    },
+    "parca-local": {
+      "title": "PARCA \u00b7 local amendment guide",
+      "url": "https://parcalabama.org/whats-on-your-countys-ballot-alabamas-2026-local-amendments/",
+      "kind": "Independent analysis"
+    },
+    "farmpac": {
+      "title": "Alabama FarmPAC \u00b7 September 28, 2026 endorsements",
+      "url": "https://alfafarmers.org/alabama-farmpac-adds-endorsements-ahead-of-nov-3-election/",
+      "kind": "Endorser statement"
+    },
+    "bca": {
+      "title": "BCA ProgressPAC \u00b7 2026 endorsements",
+      "url": "https://www.bcatoday.org/advocacy/progresspac-endorsements/",
+      "kind": "Endorser statement"
+    },
+    "choose-house": {
+      "title": "2024 HB129 \u00b7 House passage, February 27 (FastDemocracy transcript)",
+      "url": "https://fastdemocracy.com/bill-search/al/2024rs/bills/ALB00016452/?report-bill-view=1",
+      "kind": "Roll-call transcript"
+    },
+    "choose-senate": {
+      "title": "2024 HB129 \u00b7 Senate passage, March 7 (LegiScan transcript)",
+      "url": "https://legiscan.com/AL/rollcall/HB129/id/1404666",
+      "kind": "Roll-call transcript"
+    },
+    "commandments": {
+      "title": "2025 HB178 \u00b7 House passage, April 17, roll call 886 (FastDemocracy)",
+      "url": "https://fastdemocracy.com/bill-search/al/2025rs/bills/ALB00017812/?report-bill-view=1",
+      "kind": "Roll-call transcript"
+    },
+    "hr1-house": {
+      "title": "U.S. House Clerk \u00b7 H.R.1 final vote, July 3, 2025",
+      "url": "https://clerk.house.gov/Votes/2025190",
+      "kind": "Official roll call"
+    },
+    "hr1-senate": {
+      "title": "U.S. Senate \u00b7 H.R.1 passage, July 1, 2025",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+      "kind": "Official roll call"
+    },
+    "first-step": {
+      "title": "U.S. Senate \u00b7 First Step Act agreement, December 18, 2018",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00271.htm",
+      "kind": "Official roll call"
+    },
+    "doug-issues": {
+      "title": "Doug Jones \u00b7 priorities",
+      "url": "https://www.dougjones.com/priorities",
+      "kind": "Campaign"
+    },
+    "tuberville-issues": {
+      "title": "Tommy Tuberville \u00b7 issues",
+      "url": "https://www.coachforgovernor.com/issues",
+      "kind": "Campaign"
+    },
+    "moore-issues": {
+      "title": "Barry Moore \u00b7 issues",
+      "url": "https://barrymooreforalabama.com/issues/",
+      "kind": "Campaign"
+    },
+    "ensler-platform": {
+      "title": "Phillip Ensler \u00b7 campaign platform",
+      "url": "https://phillipensler.com/connect-with-rep-ensler/",
+      "kind": "Campaign"
+    },
+    "kramer-issues": {
+      "title": "Katie Kramer \u00b7 issues",
+      "url": "https://www.kramerforalabama.com/issues",
+      "kind": "Campaign"
+    },
+    "courts": {
+      "title": "Madison County court \u00b7 district judges",
+      "url": "https://madison.alacourt.gov/district-judges/",
+      "kind": "Official directory"
+    },
+    "school-board": {
+      "title": "Madison County Schools \u00b7 board members",
+      "url": "https://www.mcssk12.org/our-district/board-of-education/board-members",
+      "kind": "Official directory"
+    },
+    "school-minutes": {
+      "title": "Madison County Schools \u00b7 board and public minutes",
+      "url": "https://www.mcssk12.org/our-district/about-madison-county-schools/board-of-education",
+      "kind": "Official records"
+    },
+    "fop": {
+      "title": "Huntsville FOP endorsement of Tim Douthit \u00b7 256 Today, March 20, 2026",
+      "url": "https://256today.com/huntsville-fop-endorses-douthit-for-district-judge/",
+      "kind": "Reported endorsement"
+    },
+    "dunham-cobb": {
+      "title": "Dunham campaign \u00b7 Sue Bell Cobb endorsement",
+      "url": "https://www.ashleighdunhamforalabama.com/news/ashleigh-dunham-endorsed-by-chief-justice-sue-bell-cobb",
+      "kind": "Campaign"
+    },
+    "sneed-press": {
+      "title": "Sneed campaign \u00b7 June 2026 ADC runoff endorsement coverage",
+      "url": "https://www.sneedforcongress.com/press",
+      "kind": "Campaign"
+    },
+    "rizzardi-bio": {
+      "title": "Rizzardi candidacy and legal experience \u00b7 256 Today",
+      "url": "https://256today.com/jeanne-rizzardi-to-run-for-madison-county-district-judgeship-place-5/",
+      "kind": "Reported biography"
+    },
+    "lands-official": {
+      "title": "Marilyn Lands \u00b7 legislative website",
+      "url": "https://www.repmarilynlands.com/",
+      "kind": "Officeholder statement"
+    },
+    "livingston": {
+      "title": "Steve Livingston \u00b7 Senate caucus profile",
+      "url": "https://alsenaterepublicans.org/representatives/008-steve-livingston/",
+      "kind": "Officeholder profile"
+    },
+    "choose-law": {
+      "title": "Alabama governor \u00b7 CHOOSE Act signing, March 7, 2024",
+      "url": "https://governor.alabama.gov/newsroom/2024/03/governor-ivey-signs-the-choose-act-into-law/",
+      "kind": "Official statement"
+    },
+    "lepage": {
+      "title": "Alabama Supreme Court \u00b7 LePage opinion, February 16, 2024 (Justia copy)",
+      "url": "https://law.justia.com/cases/alabama/supreme-court/2024/sc-2022-0579.html",
+      "kind": "Judicial opinion"
+    },
+    "aaron-issues": {
+      "title": "Aaron Thomas \u00b7 issue platform",
+      "url": "https://www.aaronthomasforhd10.com/issues",
+      "kind": "Campaign"
+    },
+    "omega-jones": {
+      "title": "Omega Network for Action \u00b7 Doug Jones endorsement, September 15, 2026",
+      "url": "https://omeganetworkforaction.org/doug-jones-2/",
+      "kind": "Endorser statement"
+    },
+    "civpac-wess": {
+      "title": "CIVPAC \u00b7 Everett Wess endorsement, September 15, 2026",
+      "url": "https://centristindependentvoter.com/2026/09/15/civpac-endorses-everett-w-wess-for-u-s-senate-in-alabama/",
+      "kind": "Endorser statement"
+    }
+  },
+  "races": {
+    "r0": {
+      "issues": [
+        {
+          "topic": "Cost of living",
+          "positions": [
+            {
+              "text": "Proposes ending the grocery tax, a state earned-income tax credit, and expanded childcare.",
+              "sources": [
+                "doug-issues"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Proposes lower taxes, reduced state waste, fewer regulations, and more manufacturing jobs.",
+              "sources": [
+                "tuberville-issues"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Education",
+          "positions": [
+            {
+              "text": "Proposes free community college for adults without credentials and stronger apprenticeships.",
+              "sources": [
+                "doug-issues"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Supports broader school choice across public, charter, magnet, private, and home education.",
+              "sources": [
+                "tuberville-issues"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Healthcare",
+          "positions": [
+            {
+              "text": "Supports Medicaid expansion and strengthening rural healthcare.",
+              "sources": [
+                "doug-issues"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A detailed healthcare-coverage proposal was not verified in the reviewed issues page.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Government accountability",
+          "positions": [
+            {
+              "text": "Proposes a one-year data-center moratorium and a ban on elected officials trading individual stocks.",
+              "sources": [
+                "doug-issues"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Promises to reduce waste and regulation in state government.",
+              "sources": [
+                "tuberville-issues"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "As a U.S. senator, voted for the 2018 First Step Act agreement, a criminal-justice measure. This selected example does not describe his full Senate record.",
+          "sources": [
+            "first-step"
+          ],
+          "basis": "Recorded vote"
+        },
+        {
+          "text": "As a U.S. senator, voted yes on H.R.1 on July 1, 2025, the tax-and-spending reconciliation bill. This is a selected vote, not his full record.",
+          "sources": [
+            "hr1-senate"
+          ],
+          "basis": "Recorded vote"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "Omega Network for Action announced its endorsement for governor on September 15, 2026.",
+          "sources": [
+            "omega-jones"
+          ],
+          "basis": "Documented endorsement example"
+        },
+        {
+          "text": "Campaign reports Donald Trump\u2019s endorsement; Alabama FarmPAC also lists him for the general election.",
+          "sources": [
+            "candidate-1",
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r1": {
+      "issues": [
+        {
+          "topic": "Education & families",
+          "positions": [
+            {
+              "text": "Campaign emphasizes investment in public education and services for working families.",
+              "sources": [
+                "ensler-platform"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes parental rights, social conservatism, and limited government.",
+              "sources": [
+                "candidate-3"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Healthcare & public safety",
+          "positions": [
+            {
+              "text": "Identifies healthcare access and safer communities as campaign priorities.",
+              "sources": [
+                "ensler-platform"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Supports stronger border enforcement and a law-and-order approach.",
+              "sources": [
+                "candidate-3"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Selected House votes: HB129 school savings accounts, no (2024); HB178 school Ten Commandments displays, no (2025). Selected examples, not a full record.",
+          "sources": [
+            "choose-house",
+            "commandments"
+          ],
+          "basis": "Recorded votes"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Campaign reports Donald Trump\u2019s endorsement; Alabama FarmPAC also lists him for the general election.",
+          "sources": [
+            "candidate-3",
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r2": {
+      "issues": [
+        {
+          "topic": "Economic priorities",
+          "positions": [
+            {
+              "text": "Emphasizes economic opportunity for working families and affordable healthcare.",
+              "sources": [
+                "candidate-4"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Supports tax reductions and the Trump economic agenda.",
+              "sources": [
+                "moore-issues"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Rights & public safety",
+          "positions": [
+            {
+              "text": "Emphasizes civil rights, fairness in courts, and community advocacy.",
+              "sources": [
+                "candidate-4"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Supports stricter immigration enforcement, gun rights, and greater law-enforcement funding.",
+              "sources": [
+                "moore-issues"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "As a U.S. representative, voted yes on the final House H.R.1 vote on July 3, 2025. This selected vote concerns the tax-and-spending reconciliation bill.",
+          "sources": [
+            "hr1-house"
+          ],
+          "basis": "Recorded vote"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "CIVPAC announced its general-election endorsement on September 15, 2026.",
+          "sources": [
+            "civpac-wess"
+          ],
+          "basis": "Documented endorsement example"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r3": {
+      "issues": [
+        {
+          "topic": "Healthcare & affordability",
+          "positions": [
+            {
+              "text": "Campaign identifies affordable, reliable healthcare and affordability as priorities.",
+              "sources": [
+                "candidate-6"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "No detailed healthcare-cost proposal was verified in the reviewed campaign homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Government & national priorities",
+          "positions": [
+            {
+              "text": "Publishes issue pages on labor, education, Social Security, energy, and congressional reform.",
+              "sources": [
+                "candidate-6"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes conservative government, support for Donald Trump, and North Alabama service experience.",
+              "sources": [
+                "candidate-7"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "As a U.S. representative, voted yes on the final House H.R.1 vote on July 3, 2025. This selected vote concerns the tax-and-spending reconciliation bill.",
+          "sources": [
+            "hr1-house"
+          ],
+          "basis": "Recorded vote"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "Campaign\u2019s press page records Alabama Democratic Conference backing in the June 2026 runoff. A later general-election endorsement was not separately verified.",
+          "sources": [
+            "sneed-press"
+          ],
+          "basis": "Documented endorsement example"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r4": {
+      "issues": [
+        {
+          "topic": "Accountability",
+          "positions": [
+            {
+              "text": "Emphasizes independence from donors and his work to prohibit concealed PAC-to-PAC transfers.",
+              "sources": [
+                "candidate-8"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes her experience as chief counsel and defending Alabama against federal policies.",
+              "sources": [
+                "candidate-9"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Justice priorities",
+          "positions": [
+            {
+              "text": "Highlights domestic-violence protections, public schools, and Tennessee River protections in his service record.",
+              "sources": [
+                "candidate-8"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes public safety, anti-abortion policy, free speech, and sex-based sports rules.",
+              "sources": [
+                "candidate-9"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Previously served in the Alabama House. His campaign highlights PAC-transfer reform and domestic-violence and river protections; archived individual roll calls were not verified here.",
+          "sources": [
+            "candidate-8"
+          ],
+          "basis": "Campaign account of service"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r5": {
+      "issues": [
+        {
+          "topic": "Household needs",
+          "positions": [
+            {
+              "text": "Prioritizes healthcare access, affordability, workforce development, and infrastructure.",
+              "sources": [
+                "kramer-issues"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Caucus profile emphasizes tax reductions, economic development, and broadband expansion.",
+              "sources": [
+                "livingston"
+              ],
+              "basis": "Officeholder statement"
+            }
+          ]
+        },
+        {
+          "topic": "Education",
+          "positions": [
+            {
+              "text": "A detailed education proposal was not verified in the reviewed campaign material.",
+              "sources": [],
+              "basis": "Information gap"
+            },
+            {
+              "text": "Supported HB129 school-choice education savings accounts in the 2024 Senate passage vote.",
+              "sources": [
+                "choose-senate"
+              ],
+              "basis": "Recorded vote"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected Senate vote: yes on HB129, the CHOOSE Act education savings-account bill, on March 7, 2024. Additional individual roll calls were not verified in this snapshot.",
+          "sources": [
+            "choose-senate"
+          ],
+          "basis": "Recorded vote"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r6": {
+      "issues": [
+        {
+          "topic": "Healthcare & housing",
+          "positions": [
+            {
+              "text": "Proposes hospital-market accountability, builder warranties, and protections for family homes.",
+              "sources": [
+                "candidate-12"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "No current detailed healthcare or housing platform was verified in the reviewed sources.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Education & infrastructure",
+          "positions": [
+            {
+              "text": "Supports public-school funding and more local control of improvements to U.S.231.",
+              "sources": [
+                "candidate-12"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Supported school-choice savings accounts through HB129 in 2024.",
+              "sources": [
+                "choose-house"
+              ],
+              "basis": "Recorded vote"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected House votes: HB129 school savings accounts, yes (2024); HB178 school Ten Commandments displays, yes (2025). Selected examples, not a full record.",
+          "sources": [
+            "choose-house",
+            "commandments"
+          ],
+          "basis": "Recorded votes"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r8": {
+      "issues": [
+        {
+          "topic": "Judicial approach",
+          "positions": [
+            {
+              "text": "Emphasizes dignity, equality, children, families, and constitutional rights.",
+              "sources": [
+                "candidate-15"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A current detailed campaign platform was not verified; consult the judicial record rather than infer positions from party.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "IVF & family law",
+          "positions": [
+            {
+              "text": "Makes IVF access and the courts\u2019 effects on family building a central campaign theme.",
+              "sources": [
+                "candidate-15"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "In LePage (2024), specially concurred in applying the wrongful-death statute to frozen embryos. This was a civil-liability decision, not a legislative IVF ban.",
+              "sources": [
+                "lepage"
+              ],
+              "basis": "Judicial decision"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Campaign describes service as a juvenile-court referee and special sitting circuit judge. Judicial decisions are not legislative votes; a case-level decision synopsis was not verified.",
+          "sources": [
+            "dunham-cobb"
+          ],
+          "basis": "Campaign account of judicial service"
+        },
+        {
+          "text": "In LePage (February 16, 2024), specially concurred in the court\u2019s frozen-embryo wrongful-death decision. This selected judicial decision does not summarize his entire career or predict future rulings.",
+          "sources": [
+            "lepage"
+          ],
+          "basis": "Judicial decision"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "Campaign announced endorsement by former Alabama Chief Justice Sue Bell Cobb in May 2026.",
+          "sources": [
+            "dunham-cobb"
+          ],
+          "basis": "Documented endorsement example"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r13": {
+      "issues": [
+        {
+          "topic": "Election administration",
+          "positions": [
+            {
+              "text": "Emphasizes nonpartisan administration, voter access, accurate results, and transparency.",
+              "sources": [
+                "candidate-21"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes election security and opposition to legal challenges she says would weaken safeguards.",
+              "sources": [
+                "candidate-22"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Public service & access",
+          "positions": [
+            {
+              "text": "Proposes voter education and expanded opportunities for eligible people to cast ballots.",
+              "sources": [
+                "candidate-21"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Proposes reducing business fees and streamlining services.",
+              "sources": [
+                "candidate-22"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r14": {
+      "issues": [
+        {
+          "topic": "Managing public money",
+          "positions": [
+            {
+              "text": "Emphasizes banking experience, investment discipline, and transparent stewardship.",
+              "sources": [
+                "candidate-23"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Runs on his administration of the Alabama Trust Fund and state finances.",
+              "sources": [
+                "candidate-24"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Family savings",
+          "positions": [
+            {
+              "text": "Frames the office around protecting public money and financial security for Alabama families.",
+              "sources": [
+                "candidate-23"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights college savings, disability savings, and returning unclaimed property.",
+              "sources": [
+                "candidate-24"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Treasurer\u2019s campaign highlights the Trust Fund, college and disability savings, and unclaimed-property returns. Treasury administration is an executive record, not legislative votes.",
+          "sources": [
+            "candidate-24"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r15": {
+      "issues": [
+        {
+          "topic": "State assets & spending",
+          "positions": [
+            {
+              "text": "Emphasizes transparent management of state property and accountability without politicizing the office.",
+              "sources": [
+                "candidate-25"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes asset tracking and reducing the operating costs of the Auditor\u2019s office.",
+              "sources": [
+                "candidate-26"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Voter registration oversight",
+          "positions": [
+            {
+              "text": "Calls for qualified, competent appointments to county boards of registrars.",
+              "sources": [
+                "candidate-25"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes registrar appointments and maintaining accurate voter rolls.",
+              "sources": [
+                "candidate-26"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "County commissioner elected in 2020 and 2024; her campaign highlights budgets, infrastructure, and community services. Individual commission roll calls were not verified in this snapshot.",
+          "sources": [
+            "candidate-25"
+          ],
+          "basis": "Campaign account of service"
+        },
+        {
+          "text": "Previously a state representative; his campaign describes a fiscally and socially conservative voting record. As Auditor he administers state assets and registrar appointments. Individual House roll calls were not verified in this review.",
+          "sources": [
+            "candidate-26"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r16": {
+      "issues": [
+        {
+          "topic": "Farmers & consumers",
+          "positions": [
+            {
+              "text": "Emphasizes imported-food safety, consumer inspection, and animal-welfare enforcement.",
+              "sources": [
+                "candidate-27"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Supports food safety, lower regulatory burdens, and expansion of farm-to-school purchasing.",
+              "sources": [
+                "candidate-28"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Rural crime",
+          "positions": [
+            {
+              "text": "Promises stronger enforcement and consumer protection, drawing on his earlier agriculture terms.",
+              "sources": [
+                "candidate-27"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Proposes restoring the agriculture department\u2019s rural crime unit.",
+              "sources": [
+                "candidate-28"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Previously served two terms as agriculture commissioner. Campaign highlights food inspection and consumer protection. This executive office has no legislative roll-call history.",
+          "sources": [
+            "candidate-27"
+          ],
+          "basis": "Campaign account of service"
+        },
+        {
+          "text": "Campaign identifies him as Douglas mayor and a farmer and business owner. Individual municipal votes were not verified; mayoral administration should not be presented as a state legislative record.",
+          "sources": [
+            "candidate-28"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r17": {
+      "issues": [
+        {
+          "topic": "Utility affordability",
+          "positions": [
+            {
+              "text": "Emphasizes consumer and community advocacy; detailed rate-setting proposals were not verified.",
+              "sources": [
+                "candidate-29"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes fair utility prices, dependable service, and representing households and businesses.",
+              "sources": [
+                "candidate-30"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Public accountability",
+          "positions": [
+            {
+              "text": "Highlights prior legislative service and community work.",
+              "sources": [
+                "candidate-29"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Promises accessible leadership, an open-door policy, and meetings with constituents statewide.",
+              "sources": [
+                "candidate-30"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Campaign describes previous service in the Alabama House and work on community issues. Individual legislative roll calls were not verified here.",
+          "sources": [
+            "candidate-29"
+          ],
+          "basis": "Campaign account of service"
+        },
+        {
+          "text": "Previously served as Cullman County sheriff. Campaign highlights accessibility and law-enforcement management; no prior PSC rate-setting voting record was verified.",
+          "sources": [
+            "candidate-30"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r18": {
+      "issues": [
+        {
+          "topic": "Rates & reliability",
+          "positions": [
+            {
+              "text": "Emphasizes fair rates, reliable service, and transparent utility decisions.",
+              "sources": [
+                "candidate-31"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes utility oversight and protecting ratepayers through conservative commission leadership.",
+              "sources": [
+                "candidate-32"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Growth & accountability",
+          "positions": [
+            {
+              "text": "Publishes a data-center accountability proposal and emphasizes consumer representation.",
+              "sources": [
+                "candidate-31"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights scrutiny of large data centers and solar developments.",
+              "sources": [
+                "candidate-32"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Campaign lists earlier city-council leadership in San Antonio and planning and infrastructure committees. Individual council votes and a prior PSC voting record were not verified.",
+          "sources": [
+            "candidate-31"
+          ],
+          "basis": "Campaign account of service"
+        },
+        {
+          "text": "Previously served on the PSC and as state auditor. Individual historical PSC rate decisions were not verified in this snapshot; campaign characterizations are not a roll-call analysis.",
+          "sources": [
+            "candidate-32"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r19": {
+      "issues": [
+        {
+          "topic": "Students & educators",
+          "positions": [
+            {
+              "text": "Supports equitable resources, stronger teacher compensation, student mental-health support, and rural schools.",
+              "sources": [
+                "candidate-33"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes academic standards, parental involvement, and transparency.",
+              "sources": [
+                "candidate-34"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "School governance",
+          "positions": [
+            {
+              "text": "Calls for resources matched to students\u2019 needs and better counselor access.",
+              "sources": [
+                "candidate-33"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights parental rights and her financial-leadership background.",
+              "sources": [
+                "candidate-34"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Alabama FarmPAC, general election (September 28, 2026).",
+          "sources": [
+            "farmpac"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r22": {
+      "issues": [
+        {
+          "topic": "Judicial approach",
+          "positions": [
+            {
+              "text": "Emphasizes equal protection, objectivity, individual liberties, and interpreting law as written.",
+              "sources": [
+                "candidate-37"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A detailed current judicial platform was not verified in accessible campaign sources.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Experience & accountability",
+          "positions": [
+            {
+              "text": "Highlights accounting and legal training and a commitment to impartial treatment.",
+              "sources": [
+                "candidate-37"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Listed as a sitting district judge by the county court. This confirms service, not a policy position.",
+              "sources": [
+                "courts"
+              ],
+              "basis": "Official directory"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Listed as a sitting Madison County district judge. Judges decide cases rather than cast legislative votes. A case-level decision analysis was not verified for this snapshot.",
+          "sources": [
+            "courts"
+          ],
+          "basis": "Judicial service; case-history gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Huntsville\u2019s Fraternal Order of Police endorsement was reported March 20, 2026, ahead of the primary. Continued general-election backing was not separately verified.",
+          "sources": [
+            "fop"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r23": {
+      "issues": [
+        {
+          "topic": "Judicial approach",
+          "positions": [
+            {
+              "text": "Emphasizes the rule of law, personal dignity, and fair, impartial application of the law.",
+              "sources": [
+                "candidate-39"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A detailed current campaign position was not verified in the reviewed sources.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Court experience",
+          "positions": [
+            {
+              "text": "A case-by-case judicial record was not verified in this review.",
+              "sources": [],
+              "basis": "Information gap"
+            },
+            {
+              "text": "The county court lists Allen as a sitting district judge. That directory does not establish his case outcomes.",
+              "sources": [
+                "courts"
+              ],
+              "basis": "Official directory"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Listed as a sitting Madison County district judge. Judges decide cases rather than cast legislative votes. A case-level decision analysis was not verified for this snapshot.",
+          "sources": [
+            "courts"
+          ],
+          "basis": "Judicial service; case-history gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r24": {
+      "issues": [
+        {
+          "topic": "Judicial approach",
+          "positions": [
+            {
+              "text": "Emphasizes fair and balanced justice for the community.",
+              "sources": [
+                "candidate-41"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "No detailed policy comparison was verified; judicial candidates\u2019 future case outcomes should not be assumed.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Experience",
+          "positions": [
+            {
+              "text": "A prior judicial decision history was not verified in the reviewed campaign page.",
+              "sources": [],
+              "basis": "Information gap"
+            },
+            {
+              "text": "Her candidacy announcement describes more than 30 years of legal experience.",
+              "sources": [
+                "rizzardi-bio"
+              ],
+              "basis": "Reported biography"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Candidacy coverage describes decades of legal experience. A prior elected judicial or legislative voting history was not verified in this snapshot.",
+          "sources": [
+            "rizzardi-bio"
+          ],
+          "basis": "Reported biography; record gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r25": {
+      "issues": [
+        {
+          "topic": "Public safety & operations",
+          "positions": [
+            {
+              "text": "Emphasizes deputy training, faster response, school protection, and staff support.",
+              "sources": [
+                "candidate-43"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights experience running the sheriff\u2019s office, jail operations, and a large department.",
+              "sources": [
+                "candidate-44"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Accountability",
+          "positions": [
+            {
+              "text": "Calls for transparent leadership, better communication, and stronger public trust.",
+              "sources": [
+                "candidate-43"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Specific new accountability reforms were not verified on the reviewed campaign homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Campaign reports service as Madison County sheriff since January 2019 and responsibility for department and jail operations. Sheriffs do not cast legislative votes.",
+          "sources": [
+            "candidate-44"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r27": {
+      "issues": [
+        {
+          "topic": "Service & modernization",
+          "positions": [
+            {
+              "text": "Proposes a more accessible, modern tax-collection office and outreach on existing exemptions.",
+              "sources": [
+                "candidate-46"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Runs on transparency, efficiency, and her administration\u2019s handling of tax collections.",
+              "sources": [
+                "candidate-47"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Transparency & taxpayer help",
+          "positions": [
+            {
+              "text": "Emphasizes fairness and helping homeowners understand available tax relief.",
+              "sources": [
+                "candidate-46"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Says collection and disbursement information is posted publicly and highlights protecting public-service funding.",
+              "sources": [
+                "candidate-47"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Campaign reports election as tax collector in 2020 and emphasizes public collection reports and efficiency. Tax collection is an executive service record, not legislative voting.",
+          "sources": [
+            "candidate-47"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r30": {
+      "issues": [
+        {
+          "topic": "Academic achievement",
+          "positions": [
+            {
+              "text": "Proposes data-informed instruction, advanced coursework, and stronger career pathways.",
+              "sources": [
+                "candidate-50"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes student-focused decisions and developing teachers, staff, and administrators.",
+              "sources": [
+                "candidate-51"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Growth & trust",
+          "positions": [
+            {
+              "text": "Calls for long-range facilities, staffing, and resource planning as the district grows.",
+              "sources": [
+                "candidate-50"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Prioritizes relationships, communication, family engagement, and rebuilding trust.",
+              "sources": [
+                "candidate-51"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Campaign describes a career in teaching and school administration. Administrative school service is not a school-board legislative voting record; no prior elected roll-call history was verified.",
+          "sources": [
+            "candidate-50"
+          ],
+          "basis": "Campaign account of service"
+        },
+        {
+          "text": "Campaign describes a career in teaching and school administration. Administrative school service is not a school-board legislative voting record; no prior elected roll-call history was verified.",
+          "sources": [
+            "candidate-51"
+          ],
+          "basis": "Campaign account of service"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r31": {
+      "issues": [
+        {
+          "topic": "School resources",
+          "positions": [
+            {
+              "text": "Proposes exploring school renewable energy to lower costs and increase resources for staff and students.",
+              "sources": [
+                "candidate-52"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A detailed current campaign proposal was not verified. Incumbency alone is not evidence of a position.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Learning environment",
+          "positions": [
+            {
+              "text": "Prioritizes clean water, food, air, and consistent educational opportunities across schools.",
+              "sources": [
+                "candidate-52"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A specific position on these proposals was not verified in the reviewed official directory.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "The school system lists Brooks as the District 3 board member. Individual board motions, votes, and a voting-pattern synopsis were not verified; use the linked official minutes for further review.",
+          "sources": [
+            "school-board",
+            "school-minutes"
+          ],
+          "basis": "Official service; voting-history gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r32": {
+      "issues": [
+        {
+          "topic": "Affordability & healthcare",
+          "positions": [
+            {
+              "text": "Prioritizes lower grocery, utility, housing, and healthcare costs.",
+              "sources": [
+                "candidate-54"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A detailed healthcare-cost proposal was not verified in the reviewed campaign homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Education & jobs",
+          "positions": [
+            {
+              "text": "Calls for more support and tools for schools and students.",
+              "sources": [
+                "candidate-54"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights workforce training, commercial development, and job recruitment experience.",
+              "sources": [
+                "candidate-55"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r33": {
+      "issues": [
+        {
+          "topic": "Cost of living & schools",
+          "positions": [
+            {
+              "text": "Campaign identifies affordability, public schools, and healthcare as priorities.",
+              "sources": [
+                "candidate-56"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights small-business support, job growth, and education-budget investments.",
+              "sources": [
+                "candidate-57"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Rights & public safety",
+          "positions": [
+            {
+              "text": "Emphasizes protecting rights; a detailed gun-policy position was not verified in this review.",
+              "sources": [
+                "candidate-56"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes gun rights, military-family support, and voter eligibility safeguards.",
+              "sources": [
+                "candidate-57"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected House votes: HB129 school savings accounts, yes (2024); HB178 school Ten Commandments displays, yes (2025). Selected examples, not a full record.",
+          "sources": [
+            "choose-house",
+            "commandments"
+          ],
+          "basis": "Recorded votes"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r36": {
+      "issues": [
+        {
+          "topic": "Household economy",
+          "positions": [
+            {
+              "text": "Prioritizes wages, price stability, job growth, and housing affordability.",
+              "sources": [
+                "candidate-60"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A specific current household-cost proposal was not verified on the reviewed legislative homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Education",
+          "positions": [
+            {
+              "text": "Identifies improving children\u2019s education as a campaign priority.",
+              "sources": [
+                "candidate-60"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Led Senate work on the 2024 CHOOSE Act; the governor\u2019s signing statement credits his role.",
+              "sources": [
+                "choose-law"
+              ],
+              "basis": "Official statement"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected Senate vote: yes on HB129, the CHOOSE Act education savings-account bill, on March 7, 2024. Additional individual roll calls were not verified in this snapshot.",
+          "sources": [
+            "choose-senate"
+          ],
+          "basis": "Recorded vote"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r37": {
+      "issues": [
+        {
+          "topic": "Community priorities",
+          "positions": [
+            {
+              "text": "Legislative site emphasizes constituent service, compassion, inclusivity, and integrity.",
+              "sources": [
+                "lands-official"
+              ],
+              "basis": "Officeholder statement"
+            },
+            {
+              "text": "Campaign emphasizes respect, self-reliance, responsibility, freedom, and keeping government accountable.",
+              "sources": [
+                "candidate-63"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Education & parental rights",
+          "positions": [
+            {
+              "text": "A detailed current education plan was not verified in the reviewed legislative homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            },
+            {
+              "text": "Supports parental control over children\u2019s education and healthcare and retaining school resource officers.",
+              "sources": [
+                "aaron-issues"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Elected to the House in March 2024. Voted no on HB178 school Ten Commandments displays on April 17, 2025. This selected vote is not a complete legislative record.",
+          "sources": [
+            "lands-official",
+            "commandments"
+          ],
+          "basis": "Recorded vote and service"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r38": {
+      "issues": [
+        {
+          "topic": "Healthcare & costs",
+          "positions": [
+            {
+              "text": "Supports Medicaid expansion, ending the grocery tax, affordable housing, and lower utility costs.",
+              "sources": [
+                "candidate-64"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A detailed current healthcare-cost platform was not verified on the reviewed campaign page.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Education & development",
+          "positions": [
+            {
+              "text": "Supports school meals, fully funded pre-K, and better pay for teachers and support staff.",
+              "sources": [
+                "candidate-64"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights job recruitment, business experience, and local economic development.",
+              "sources": [
+                "candidate-65"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected Senate vote: yes on HB129, the CHOOSE Act education savings-account bill, on March 7, 2024. Additional individual roll calls were not verified in this snapshot.",
+          "sources": [
+            "choose-senate"
+          ],
+          "basis": "Recorded vote"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r39": {
+      "issues": [
+        {
+          "topic": "Education",
+          "positions": [
+            {
+              "text": "Opposed the 2024 CHOOSE Act savings-account bill in the House passage vote.",
+              "sources": [
+                "choose-house"
+              ],
+              "basis": "Recorded vote"
+            },
+            {
+              "text": "A detailed education proposal was not verified on the reviewed campaign homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Community priorities",
+          "positions": [
+            {
+              "text": "A detailed current campaign platform was not verified in accessible sources.",
+              "sources": [],
+              "basis": "Information gap"
+            },
+            {
+              "text": "Homepage focuses on offering a Republican option in District 19; detailed issue proposals were not verified.",
+              "sources": [
+                "candidate-67"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "Selected House votes: HB129 school savings accounts, no (2024); HB178 school Ten Commandments displays, no (2025). Selected examples, not a full record.",
+          "sources": [
+            "choose-house",
+            "commandments"
+          ],
+          "basis": "Recorded votes"
+        },
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    },
+    "r41": {
+      "issues": [
+        {
+          "topic": "Healthcare",
+          "positions": [
+            {
+              "text": "Supports Medicaid expansion and addressing concentration in insurance and hospital markets.",
+              "sources": [
+                "candidate-69"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "A specific healthcare-market reform proposal was not verified in the reviewed campaign homepage.",
+              "sources": [],
+              "basis": "Information gap"
+            }
+          ]
+        },
+        {
+          "topic": "Education & infrastructure",
+          "positions": [
+            {
+              "text": "Prioritizes teachers, school quality, broadband, roads, wastewater, and planning for growth.",
+              "sources": [
+                "candidate-69"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes economic growth, fiscal responsibility, education, and law-enforcement support.",
+              "sources": [
+                "candidate-70"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected House votes: HB129 school savings accounts, yes (2024); HB178 school Ten Commandments displays, yes (2025). Selected examples, not a full record.",
+          "sources": [
+            "choose-house",
+            "commandments"
+          ],
+          "basis": "Recorded votes"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Business Council of Alabama ProgressPAC lists this candidate in its 2026 endorsements.",
+          "sources": [
+            "bca"
+          ],
+          "basis": "Documented endorsement example"
+        }
+      ]
+    },
+    "r43": {
+      "issues": [
+        {
+          "topic": "Healthcare & schools",
+          "positions": [
+            {
+              "text": "Supports public-school funding, Medicaid expansion, and stronger hospital-market competition.",
+              "sources": [
+                "candidate-72"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Emphasizes prescription-price transparency and affordability for patients and families.",
+              "sources": [
+                "candidate-73"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        },
+        {
+          "topic": "Taxes & growth",
+          "positions": [
+            {
+              "text": "Opposes large AI data centers and supports a long-term moratorium.",
+              "sources": [
+                "candidate-72"
+              ],
+              "basis": "Campaign position"
+            },
+            {
+              "text": "Highlights grocery-tax reductions and broader tax relief during his first term.",
+              "sources": [
+                "candidate-73"
+              ],
+              "basis": "Campaign position"
+            }
+          ]
+        }
+      ],
+      "records": [
+        {
+          "text": "No prior elected voting history was verified in the reviewed sources. This does not establish that the candidate has never served.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "Selected House votes: HB129 school savings accounts, yes (2024); HB178 school Ten Commandments displays, yes (2025). Selected examples, not a full record.",
+          "sources": [
+            "choose-house",
+            "commandments"
+          ],
+          "basis": "Recorded votes"
+        }
+      ],
+      "endorsements": [
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        },
+        {
+          "text": "No current-election endorsement was verified in this source set. This does not mean the candidate has no endorsements.",
+          "sources": [],
+          "basis": "Information gap"
+        }
+      ]
+    }
+  },
+  "amendments": {
+    "a0": {
+      "topic": "Lieutenant governor vacancies & legislative pay",
+      "yes": "Creates an early-term vacancy election process and changes legislative leadership pay and travel approval.",
+      "no": "Keeps the existing rules.",
+      "context": "PARCA highlights the Legislature\u2019s ability to set leadership pay without a gubernatorial veto.",
+      "sources": [
+        "parca"
+      ]
+    },
+    "a1": {
+      "topic": "Voluntary county school-system mergers",
+      "yes": "Creates a process for neighboring county school systems to merge, with an impact study and protest-triggered referendum.",
+      "no": "Leaves current rules in place.",
+      "context": "PARCA stresses that passage would not itself merge any systems.",
+      "sources": [
+        "parca"
+      ]
+    },
+    "a2": {
+      "topic": "Pledge & student-led prayer",
+      "yes": "Requires school-board policies for a daily Pledge and student-led prayer, with opt-outs.",
+      "no": "Does not add these constitutional mandates.",
+      "context": "PARCA notes existing state provisions and constitutional limits on school-sponsored prayer.",
+      "sources": [
+        "parca"
+      ]
+    },
+    "a3": {
+      "topic": "Weekly national anthem in schools",
+      "yes": "Requires a weekly broadcast or performance of the anthem\u2019s first stanza in public K\u201312 schools.",
+      "no": "Leaves the constitution without this requirement.",
+      "context": "PARCA notes that students cannot be compelled to participate in patriotic exercises.",
+      "sources": [
+        "parca"
+      ]
+    },
+    "a4": {
+      "topic": "Madison County sewer-system regulation",
+      "yes": "Extends PSC oversight to certain private sewer systems using public road rights-of-way, subject to the amendment\u2019s conditions.",
+      "no": "Does not add this authority through the amendment.",
+      "context": "PARCA\u2019s local guide covers this Madison County measure; the statewide guide covers amendments 1\u20134.",
+      "sources": [
+        "parca-local"
+      ]
+    }
+  }
+}

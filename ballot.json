@@ -1,0 +1,986 @@
+{
+  "election": "2026-11-03",
+  "source": "Madison-Sample.pdf",
+  "races": [
+    {
+      "title": "Governor",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "DOUG JONES",
+          "party": "Democrat",
+          "website": "https://www.dougjones.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.dougjones.com/"
+        },
+        {
+          "name": "TOMMY TUBERVILLE",
+          "party": "Republican",
+          "website": "https://www.coachforgovernor.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.coachforgovernor.com/"
+        }
+      ],
+      "id": "r0"
+    },
+    {
+      "title": "Lieutenant Governor",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "PHILLIP ENSLER",
+          "party": "Democrat",
+          "website": "https://phillipensler.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://phillipensler.com/"
+        },
+        {
+          "name": "JOHN WAHL",
+          "party": "Republican",
+          "website": "https://votejohnwahl.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://votejohnwahl.com/"
+        }
+      ],
+      "id": "r1"
+    },
+    {
+      "title": "United States Senator",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "EVERETT WESS",
+          "party": "Democrat",
+          "website": "https://wessforsenate.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://wessforsenate.com/"
+        },
+        {
+          "name": "BARRY MOORE",
+          "party": "Republican",
+          "website": "https://barrymooreforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://barrymooreforalabama.com/"
+        }
+      ],
+      "id": "r2"
+    },
+    {
+      "title": "United States Representative, 5th Congressional District",
+      "scope": "Congress",
+      "district": 5,
+      "candidates": [
+        {
+          "name": "ANDREW SNEED",
+          "party": "Democrat",
+          "website": "https://www.sneedforcongress.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.sneedforcongress.com/"
+        },
+        {
+          "name": "DALE W. STRONG",
+          "party": "Republican",
+          "website": "https://www.dalestrongforcongress.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.dalestrongforcongress.com/"
+        }
+      ],
+      "id": "r3"
+    },
+    {
+      "title": "Attorney General",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "JEFF McLAUGHLIN",
+          "party": "Democrat",
+          "website": "https://www.mclaughlinforag.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.mclaughlinforag.com/"
+        },
+        {
+          "name": "KATHERINE ROBERTSON",
+          "party": "Republican",
+          "website": "https://www.katherineforag.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.katherineforag.com/"
+        }
+      ],
+      "id": "r4"
+    },
+    {
+      "title": "State Senator, District 8",
+      "scope": "State Senate",
+      "district": 8,
+      "candidates": [
+        {
+          "name": "KATIE KRAMER",
+          "party": "Democrat",
+          "website": "https://kramerforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://kramerforalabama.com/"
+        },
+        {
+          "name": "STEVE LIVINGSTON",
+          "party": "Republican",
+          "website": "https://alsenaterepublicans.org/representatives/008-steve-livingston/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://alsenaterepublicans.org/representatives/008-steve-livingston/",
+          "websiteLabel": "Senate profile",
+          "websiteProvidedBy": "user"
+        }
+      ],
+      "id": "r5"
+    },
+    {
+      "title": "State Representative, District 21",
+      "scope": "State House",
+      "district": 21,
+      "candidates": [
+        {
+          "name": "FORREST SATTERFIELD",
+          "party": "Democrat",
+          "website": "https://www.forrestforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.forrestforalabama.com/"
+        },
+        {
+          "name": "REX REYNOLDS",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r6"
+    },
+    {
+      "title": "Associate Justice of the Supreme Court, Place 7",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "BRAD MENDHEIM",
+          "party": "Republican",
+          "website": "https://www.mendheimforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.mendheimforalabama.com/"
+        }
+      ],
+      "id": "r7"
+    },
+    {
+      "title": "Associate Justice of the Supreme Court, Place 8",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "ASHLEIGH MEYER DUNHAM",
+          "party": "Democrat",
+          "website": "https://www.ashleighdunhamforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.ashleighdunhamforalabama.com/"
+        },
+        {
+          "name": "GREG SHAW",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r8"
+    },
+    {
+      "title": "Court of Civil Appeals Judge, Place 4",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "BENJAMIN M. BOWDEN",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r9"
+    },
+    {
+      "title": "Court of Civil Appeals Judge, Place 5",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "MATT FRIDY",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "unavailable",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mgop.org/alabama-republican-candidates/",
+          "listedWebsite": "https://www.fridyforjudge.com/"
+        }
+      ],
+      "id": "r10"
+    },
+    {
+      "title": "Court of Criminal Appeals Judge, Place 4",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "MARY WINDOM",
+          "party": "Republican",
+          "website": "http://www.judgemarywindom.com/about.html",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mgop.org/alabama-republican-candidates/"
+        }
+      ],
+      "id": "r11"
+    },
+    {
+      "title": "Court of Criminal Appeals Judge, Place 5",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "RIGGS WALKER",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r12"
+    },
+    {
+      "title": "Secretary of State",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "WAYNE ROGERS",
+          "party": "Democrat",
+          "website": "https://waynerogersforalsecretaryofstate.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://waynerogersforalsecretaryofstate.com/"
+        },
+        {
+          "name": "CAROLEENE DOBSON",
+          "party": "Republican",
+          "website": "https://www.dobsonforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.dobsonforalabama.com/"
+        }
+      ],
+      "id": "r13"
+    },
+    {
+      "title": "State Treasurer",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "ROSILYN HOUSTON",
+          "party": "Democrat",
+          "website": "https://rozforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://rozforalabama.com/"
+        },
+        {
+          "name": "YOUNG BOOZER",
+          "party": "Republican",
+          "website": "https://boozerfortreasurer.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://boozerfortreasurer.com/",
+          "websiteLabel": "Website",
+          "websiteProvidedBy": "user"
+        }
+      ],
+      "id": "r14"
+    },
+    {
+      "title": "State Auditor",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "VIOLET EDWARDS",
+          "party": "Democrat",
+          "website": "https://voteviolet.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://voteviolet.com/"
+        },
+        {
+          "name": "ANDREW SORRELL",
+          "party": "Republican",
+          "website": "https://www.andrewsorrell.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.andrewsorrell.com/"
+        }
+      ],
+      "id": "r15"
+    },
+    {
+      "title": "Commissioner of Agriculture and Industries",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "RON SPARKS",
+          "party": "Democrat",
+          "website": "https://sparks2026.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://sparks2026.com/"
+        },
+        {
+          "name": "COREY HILL",
+          "party": "Republican",
+          "website": "https://coreyhillforalabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://coreyhillforalabama.com/"
+        }
+      ],
+      "id": "r16"
+    },
+    {
+      "title": "Public Service Commission, Place 1",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "JAMES O. GORDON",
+          "party": "Democrat",
+          "website": "https://jamesogordon.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://jamesogordon.com/"
+        },
+        {
+          "name": "MATT GENTRY",
+          "party": "Republican",
+          "website": "https://mattgentryforpsc.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mattgentryforpsc.com/"
+        }
+      ],
+      "id": "r17"
+    },
+    {
+      "title": "Public Service Commission, Place 2",
+      "scope": "Statewide",
+      "district": null,
+      "candidates": [
+        {
+          "name": "SHEILA D. McNEIL",
+          "party": "Democrat",
+          "website": "https://mcneilforpsc2.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mcneilforpsc2.com/"
+        },
+        {
+          "name": "JIM ZIG ZEIGLER",
+          "party": "Republican",
+          "website": "https://www.zig4alabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.zig4alabama.com/"
+        }
+      ],
+      "id": "r18"
+    },
+    {
+      "title": "Member, State Board of Education, District 8",
+      "scope": "State Education",
+      "district": 8,
+      "candidates": [
+        {
+          "name": "SHATIKA ARMSTRONG",
+          "party": "Democrat",
+          "website": "https://www.votesarmstrong.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.votesarmstrong.com/"
+        },
+        {
+          "name": "EMILY JONES",
+          "party": "Republican",
+          "website": "https://www.emilyjonesforstateboard.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.emilyjonesforstateboard.com/"
+        }
+      ],
+      "id": "r19"
+    },
+    {
+      "title": "Circuit Court Judge, 23rd Judicial Circuit, Place 2",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "ALISON STRICKLAND AUSTIN",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r20"
+    },
+    {
+      "title": "Circuit Court Judge, 23rd Judicial Circuit, Place 4",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "CLAUDE E. HUNDLEY III",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r21"
+    },
+    {
+      "title": "District Court Judge, Madison County, Place 1",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "KIMBERLY KELLEY RUCKER",
+          "party": "Democrat",
+          "website": "https://www.krucker4judge.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.krucker4judge.com/"
+        },
+        {
+          "name": "TIM DOUTHIT",
+          "party": "Republican",
+          "website": "https://www.votetimdouthit.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mgop.org/alabama-republican-candidates/"
+        }
+      ],
+      "id": "r22"
+    },
+    {
+      "title": "District Court Judge, Madison County, Place 4",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "JASON M. JONES",
+          "party": "Democrat",
+          "website": "https://www.jasonjonesforjudge.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.jasonjonesforjudge.com/"
+        },
+        {
+          "name": "JOHN R. ALLEN",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r23"
+    },
+    {
+      "title": "District Court Judge, Madison County, Place 5",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "RAVEN BEACH",
+          "party": "Democrat",
+          "website": "https://www.ravenbeachforjudge.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.ravenbeachforjudge.com/"
+        },
+        {
+          "name": "JEANNE DOWDLE RIZZARDI",
+          "party": "Republican",
+          "website": "https://jeannerizzardi.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mgop.org/alabama-republican-candidates/"
+        }
+      ],
+      "id": "r24"
+    },
+    {
+      "title": "Madison County Sheriff",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "BRETT JONES",
+          "party": "Democrat",
+          "website": "https://www.votebrettjones.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.votebrettjones.com/"
+        },
+        {
+          "name": "KEVIN H. TURNER",
+          "party": "Republican",
+          "website": "https://www.kevinturnerforsheriff.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.kevinturnerforsheriff.com/"
+        }
+      ],
+      "id": "r25"
+    },
+    {
+      "title": "Madison County Tax Assessor",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "CLIFF MANN",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r26"
+    },
+    {
+      "title": "Madison County Tax Collector",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "JEFF TAYLOR",
+          "party": "Democrat",
+          "website": "https://www.jefftaylorfortaxcollector.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.jefftaylorfortaxcollector.com/"
+        },
+        {
+          "name": "VALERIE D. MILES",
+          "party": "Republican",
+          "website": "https://www.votevaleriemiles.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.votevaleriemiles.com/"
+        }
+      ],
+      "id": "r27"
+    },
+    {
+      "title": "Madison County Coroner",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "TYLER BERRYHILL",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r28"
+    },
+    {
+      "title": "Madison County License Director",
+      "scope": "County",
+      "district": null,
+      "candidates": [
+        {
+          "name": "MARK CRAIG",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r29"
+    },
+    {
+      "title": "Superintendent, Madison County Board of Education",
+      "scope": "County Education",
+      "district": null,
+      "candidates": [
+        {
+          "name": "E. QUINN HEADEN",
+          "party": "Democrat",
+          "website": "https://drequinnheaden.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://advancehuntsville.com/elections-2026/"
+        },
+        {
+          "name": "KEITH TRAWICK",
+          "party": "Republican",
+          "website": "https://www.votetrawick.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.votetrawick.com/"
+        }
+      ],
+      "id": "r30"
+    },
+    {
+      "title": "Member, Madison County Board of Education, District 3",
+      "scope": "County Education",
+      "district": 3,
+      "candidates": [
+        {
+          "name": "AUSTIN JONES",
+          "party": "Democrat",
+          "website": "https://austinjones4thepeople.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://austinjones4thepeople.com/"
+        },
+        {
+          "name": "BRIAN BROOKS",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r31"
+    },
+    {
+      "title": "State Senator, District 2",
+      "scope": "State Senate",
+      "district": 2,
+      "candidates": [
+        {
+          "name": "RUDOLPH VALENTINO DRAKE",
+          "party": "Democrat",
+          "website": "https://www.rudolphdrakeforsenate.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.rudolphdrakeforsenate.com/"
+        },
+        {
+          "name": "JOHN ROBERTS",
+          "party": "Republican",
+          "website": "https://www.johnrobertsal.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.johnrobertsal.com/"
+        }
+      ],
+      "id": "r32"
+    },
+    {
+      "title": "State Representative, District 4",
+      "scope": "State House",
+      "district": 4,
+      "candidates": [
+        {
+          "name": "HANU KARLAPALEM",
+          "party": "Democrat",
+          "website": "https://hanu4alabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.bamapolitics.com/wp-content/uploads/2026/03/Hanu-Karlapalem-Campaign-Kickoff-Press-Release-1.pdf"
+        },
+        {
+          "name": "PARKER DUNCAN MOORE",
+          "party": "Republican",
+          "website": "https://www.voteparkermoore.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.voteparkermoore.com/"
+        }
+      ],
+      "id": "r33"
+    },
+    {
+      "title": "State Representative, District 6",
+      "scope": "State House",
+      "district": 6,
+      "candidates": [
+        {
+          "name": "ANDY WHITT",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "unavailable",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://mgop.org/alabama-republican-candidates/",
+          "listedWebsite": "https://voteandywhitt.com/"
+        }
+      ],
+      "id": "r34"
+    },
+    {
+      "title": "State Representative, District 53",
+      "scope": "State House",
+      "district": 53,
+      "candidates": [
+        {
+          "name": "ANTHONY DANIELS",
+          "party": "Democrat",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r35"
+    },
+    {
+      "title": "State Senator, District 3",
+      "scope": "State Senate",
+      "district": 3,
+      "candidates": [
+        {
+          "name": "JOHN DICKEY",
+          "party": "Democrat",
+          "website": "https://dickey4alabama.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://dickey4alabama.com/"
+        },
+        {
+          "name": "ARTHUR ORR",
+          "party": "Republican",
+          "website": "https://arthurorr.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://arthurorr.com/"
+        }
+      ],
+      "id": "r36"
+    },
+    {
+      "title": "State Representative, District 10",
+      "scope": "State House",
+      "district": 10,
+      "candidates": [
+        {
+          "name": "MARILYN LANDS",
+          "party": "Democrat",
+          "website": "https://www.repmarilynlands.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.repmarilynlands.com/"
+        },
+        {
+          "name": "AARON THOMAS",
+          "party": "Republican",
+          "website": "https://www.aaronthomasforhd10.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.aaronthomasforhd10.com/"
+        }
+      ],
+      "id": "r37"
+    },
+    {
+      "title": "State Senator, District 7",
+      "scope": "State Senate",
+      "district": 7,
+      "candidates": [
+        {
+          "name": "JARED SLUSS",
+          "party": "Democrat",
+          "website": "https://www.slussforsenate.org/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.slussforsenate.org/"
+        },
+        {
+          "name": "SAM GIVHAN",
+          "party": "Republican",
+          "website": "https://samgivhan.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://samgivhan.com/"
+        }
+      ],
+      "id": "r38"
+    },
+    {
+      "title": "State Representative, District 19",
+      "scope": "State House",
+      "district": 19,
+      "candidates": [
+        {
+          "name": "LAURA HALL",
+          "party": "Democrat",
+          "website": "https://www.laurahallforalabama.com/",
+          "websiteStatus": "user_provided",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.laurahallforalabama.com/",
+          "websiteLabel": "Website",
+          "websiteProvidedBy": "user"
+        },
+        {
+          "name": "DONALD BARNES",
+          "party": "Republican",
+          "website": "https://donaldbarnes4hd19.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://donaldbarnes4hd19.com/"
+        }
+      ],
+      "id": "r39"
+    },
+    {
+      "title": "State Senator, District 9",
+      "scope": "State Senate",
+      "district": 9,
+      "candidates": [
+        {
+          "name": "WES KITCHENS",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r40"
+    },
+    {
+      "title": "State Representative, District 20",
+      "scope": "State House",
+      "district": 20,
+      "candidates": [
+        {
+          "name": "JAMES LINDERHOLM",
+          "party": "Democrat",
+          "website": "https://www.jameslinderholm.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.jameslinderholm.com/"
+        },
+        {
+          "name": "JAMES LOMAX",
+          "party": "Republican",
+          "website": "https://www.lomaxforhouse.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.lomaxforhouse.com/"
+        }
+      ],
+      "id": "r41"
+    },
+    {
+      "title": "State Representative, District 22",
+      "scope": "State House",
+      "district": 22,
+      "candidates": [
+        {
+          "name": "RITCHIE WHORTON",
+          "party": "Republican",
+          "website": null,
+          "websiteStatus": "not_found",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": null
+        }
+      ],
+      "id": "r42"
+    },
+    {
+      "title": "State Representative, District 25",
+      "scope": "State House",
+      "district": 25,
+      "candidates": [
+        {
+          "name": "ALLISON T MONTGOMERY",
+          "party": "Democrat",
+          "website": "https://yourallyinmontgomery.org/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://yourallyinmontgomery.org/"
+        },
+        {
+          "name": "PHILLIP K. RIGSBY",
+          "party": "Republican",
+          "website": "https://www.rigsbyforhouse.com/",
+          "websiteStatus": "verified",
+          "websiteCheckedOn": "2026-10-29",
+          "websiteSource": "https://www.rigsbyforhouse.com/"
+        }
+      ],
+      "id": "r43"
+    }
+  ],
+  "amendments": [
+    {
+      "title": "Statewide Amendment 1",
+      "text": "Proposing an amendment to the Constitution of Alabama of 2022, to provide for the election of a Lieutenant Governor if the Office of Lieutenant Governor becomes vacant during the first two years of a term, to authorize the Legislature to set the salary of the Lieutenant Governor and officers of the Legislature, and to require any expenditure of legislative funds for travel to be approved by a legislative officer. (Proposed by Act 2026-341)",
+      "id": "a0"
+    },
+    {
+      "title": "Statewide Amendment 2",
+      "text": "Proposing an amendment to the Constitution of Alabama of 2022, to provide a process for the creation of a consolidated county school system by merging two or more contiguous county boards of education; to require the State Board of Education to conduct an impact study on the potential effects of the consolidation; to require publication of the impact study; to provide a procedure for protesting a proposed consolidation of two or more county school systems; and to require the State Board of Education to adopt rules. (Proposed by Act 2026- 378)",
+      "id": "a1"
+    },
+    {
+      "title": "Statewide Amendment 3",
+      "text": "Proposing an amendment to the Constitution of Alabama of 2022, to require local boards of education to adopt policies requiring each public K-12 school to recite The Pledge of Allegiance to the United States flag at the beginning of each school day; and to require local boards of education to adopt a policy authorizing student-initiated and student-led prayer. (Proposed by Act 2026-379)",
+      "id": "a2"
+    },
+    {
+      "title": "Statewide Amendment 4",
+      "text": "Proposing an amendment to the Constitution of Alabama of 2022, to require local boards of education to adopt policies requiring each public K-12 school to broadcast or sanction the performance of the first stanza of The Star-Spangled Banner at least once per week during school hours. (Proposed by Act 2026-424)",
+      "id": "a3"
+    },
+    {
+      "title": "Local Amendment",
+      "text": "Relating to Madison County, proposing an amendment to the Constitution of Alabama of 2022, to bring under the jurisdiction of the Public Service Commission certain privately owned sewer systems that use public rights-of-way of public roads under certain conditions. (Proposed by Act 2026-323)",
+      "id": "a4"
+    }
+  ],
+  "candidateWebsitesCheckedOn": "2026-10-29"
+}
