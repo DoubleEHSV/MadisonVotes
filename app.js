@@ -28,6 +28,7 @@ function announce(text) { $('message').textContent=text; }
 function showResults() { $('results').hidden=false; render(); $('results').scrollIntoView({behavior:'smooth', block:'start'}); $('results').focus({preventScroll:true}); }
 function group(r) { if (r.scope==='Congress' || r.title==='United States Senator') return 'Federal'; if (r.scope.startsWith('County')) return 'County'; return 'State'; }
 function eligible(r) {
+  if (r.scope === 'County Education' && $('city-limits').checked) return false;
   if (mode === 'browse') return true;
   switch(r.scope) {
     case 'State Senate': return districts.senate === r.district;
@@ -85,40 +86,15 @@ function render() {
     if(!districts.senate)unknown.push('State Senate');
     if(!districts.house)unknown.push('State House');
     if(!districts.congress)unknown.push('U.S. House');
-    if(!districts.countySchool)unknown.push('county schools');
     if(districts.countySchool==='yes'&&!districts.countyBoard)unknown.push('county school board');
   }
   $('pending').hidden=mode==='browse'||!unknown.length;
   $('pending').textContent=`Still to confirm: ${unknown.join(', ')}. Unresolved district contests are excluded from this checklist. Confirm your districts above before treating it as complete.`;
-  updateSchoolQuestion();
   updateSelectionCount();
 }
-function updateSchoolQuestion() {
-  $('school-check').hidden = mode === 'browse';
-  const county = districts.countySchool === 'yes';
-  $('county-board-field').hidden = !county;
-  $('county-board').disabled = !county;
-  $('school-status').textContent = county
-    ? `County superintendent included.${districts.countyBoard === '3' ? ' County Board of Education District 3 included.' : districts.countyBoard === 'other' ? ' District 3 board race excluded for your selected district.' : ' Confirm your county board district to include the correct board race.'} Based on your answer; confirm with election officials.`
-    : districts.countySchool === 'no'
-      ? 'County superintendent and county board races excluded based on your answer.'
-      : 'County school races stay off your checklist until you confirm your school electorate.';
-}
-function resetSchoolQuestion() {
-  document.querySelector('input[name="school-area"][value=""]').checked = true;
-  $('county-board').value = '';
-}
-$('school-area').addEventListener('change', e => {
-  if (e.target.name !== 'school-area' || mode === 'browse') return;
-  districts.countySchool = e.target.value;
-  districts.countyBoard = '';
-  $('county-board').value = '';
-  render();
-});
-$('county-board').addEventListener('change', () => {
-  if (mode === 'browse' || districts.countySchool !== 'yes') return;
-  districts.countyBoard = $('county-board').value;
-  render();
+$('city-limits').addEventListener('change', () => {
+  districts.countySchool = $('city-limits').checked ? 'no' : 'yes';
+  if (data && !$('results').hidden) render();
 });
 function fillSelects() {
   for(const [id,scope] of [['senate','State Senate'],['house','State House']]) {
@@ -139,12 +115,12 @@ async function lookupCandidate(candidate, token) {
     if(!precincts?.length)throw new Error('No Madison County precinct covers this address in the county map. Check your address or use the official voter lookup. We have not assigned a ballot.');
     if(precincts.length!==1)throw new Error('This point overlaps multiple precincts. An election official must confirm the correct precinct before a ballot can be assigned.');
     mode='matched';filter='All contests';selection.clear();
-    districts={congress:getDistrict(results[1]),senate:getDistrict(results[2]),house:getDistrict(results[3]),precinct:precincts[0].attributes};
-    $('senate').value=districts.senate||''; $('house').value=districts.house||''; resetSchoolQuestion();
+    districts={congress:getDistrict(results[1]),senate:getDistrict(results[2]),house:getDistrict(results[3]),precinct:precincts[0].attributes,countySchool:$('city-limits').checked?'no':'yes'};
+    $('senate').value=districts.senate||''; $('house').value=districts.house||''; $('county-board').value='';
     $('result-kicker').textContent='ADDRESS MATCH · DISTRICTS ESTIMATED';
     $('result-title').textContent='Your sample ballot explorer';
     $('result-address').textContent=candidate.address;
-    $('result-notice').textContent='This is a draft checklist from the supplied November 3, 2026 sample, filtered by geographic boundaries. State school board District 8 is included countywide. County school races require confirmation below. The county GIS polling place is shown for reference; confirm it and your official ballot style with Alabama VoterView.';
+    $('result-notice').textContent='This is a draft checklist from the supplied November 3, 2026 sample, filtered by geographic boundaries. State school board District 8 is included countywide. County school races follow your city-limits checkbox; the county board seat also requires district confirmation. The county GIS polling place is shown for reference; confirm it and your official ballot style with Alabama VoterView.';
     renderSummary(); announce('Address matched. Review the draft checklist below.');showResults();
   } catch(error) { if(token===request)announce(error.message||'The lookup did not complete. Please try again.'); }
   finally { if(token===request)busy(false); }
@@ -168,14 +144,14 @@ $('address-form').addEventListener('submit',async event=>{
 });
 $('browse').addEventListener('click',()=>{
   if(!data)return; ++request;busy(false);$('matches').hidden=true;announce('');mode='browse';districts={};filter='All contests';selection.clear();
-  for(const id of ['senate','house'])$(id).value=''; resetSchoolQuestion();
+  for(const id of ['senate','house'])$(id).value=''; $('county-board').value='';
   $('result-kicker').textContent='COUNTY SAMPLE · ALL DISTRICTS';$('result-title').textContent='Explore the Madison County sample';$('result-address').textContent='November 3, 2026 · General and Constitutional Amendment Election';
   $('lookup-summary').innerHTML=summaryCard('Source','Provided county PDF')+summaryCard('Contests',data.races.length,'Includes different districts')+summaryCard('Amendments',data.amendments.length)+summaryCard('Address match','Not performed');
   $('result-notice').textContent='County browsing shows every race found in the supplied PDF, including mutually exclusive districts. This is not a personalized ballot. Start with your address above to filter district races.';showResults();
 });
 $('apply-districts').addEventListener('click',()=>{
   if(mode==='browse') { $('result-notice').textContent='Start with an address lookup to confirm Madison County coverage before applying district information.';return; }
-  districts={...districts,senate:Number($('senate').value)||null,house:Number($('house').value)||null,manual:true};
+  districts={...districts,senate:Number($('senate').value)||null,house:Number($('house').value)||null,countyBoard:$('county-board').value,manual:true};
   $('result-notice').textContent='Checklist updated using your self-reported districts. These entries have not been verified by this app. Confirm your official ballot style with election officials. Unconfirmed district races remain excluded.';renderSummary();render();
 });
 $('filters').addEventListener('click',e=>{const b=e.target.closest('[data-filter]');if(b){filter=b.dataset.filter;render();}});
